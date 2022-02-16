@@ -15,5 +15,5 @@ __Whatsy__ - Send Whatsapp message without saving the number on your phone.
 
 ### Donation
 
-- https://www.buymeacoffee.com/zOkT07A
+- https://www.buymeacoffee.com/stefanusfry
 - https://karyakarsa.com/burhanahmeed

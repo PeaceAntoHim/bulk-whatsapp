@@ -1,6 +1,6 @@
 # Whatsy
 
-__Live website: https://whatsy.now.sh__
+__Live website: https://bulk-whatsapp.netlify.app/
 
 ![Whatsy homepage](/public/screenshot.png)
 
@@ -16,4 +16,3 @@ __Whatsy__ - Send Whatsapp message without saving the number on your phone.
 ### Donation
 
 - https://www.buymeacoffee.com/stefanusfry
-- https://karyakarsa.com/burhanahmeed
